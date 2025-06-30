@@ -1,8 +1,8 @@
-# EERobot
+# Multimodal Empathetic Exchanges
 
-This is a repository for the article "Behavioral Empathy Prediction in Dyadic Conversations with a Robot" that is under review in the IEEE IROS conference.
+This is a repository for the article "Behavioral Empathy Prediction in Dyadic Conversations Using Multimodal Cues" that is under review in the IEEE Access journal.
 
-We provide access to our multimodal empathy dataset **E**mpathetic **E**xchanges with a **Robot** (EERobot). EERobot presents dyadic conversations with a robot mediator. It comprises 86 conversations with 214 exchanges between 12 participants.
+We provide access to our multimodal empathy dataset **M**ultimodal **E**mpathetic E**x**changes (mEX). mEX presents dyadic conversations. It comprises 86 conversations with 214 exchanges between 12 participants.
 
 # text_exchanges_cues_included.csv
 
